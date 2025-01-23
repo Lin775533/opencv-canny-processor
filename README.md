@@ -2,6 +2,9 @@
 
 A real-time camera-based Canny edge detection system implemented using OpenCV and C++.
 
+## Documentation
+- [Detailed Project Report](https://hackmd.io/@Jimmy775533/Hy9SdmeOyx)
+
 ## Features
 - Real-time video capture using libcamera
 - Canny edge detection processing
